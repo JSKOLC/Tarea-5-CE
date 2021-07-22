@@ -534,40 +534,71 @@ con una separación de 0.1 mm. ¿Cuál es su capacitancia?
 ![image](https://user-images.githubusercontent.com/85263529/126587584-49192ab5-84b9-4273-a4f7-5f5e6b8b3f97.png)
 
 
-
-10-3 Campos eléctricos.
-
-13.- a. ¿Cuál es la intensidad del campo eléctrico a una distancia de 1 cm de una carga de 100 mC en aceite? 
-
-b. ¿Cuál es el campo electrico E al doble de la distancia?
-
 10-4 Dieléctricos.
 
 15.- Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
+![imagen](https://user-images.githubusercontent.com/85263529/126588095-3766c671-ffd8-405c-a8ca-8b1fd699b093.png)
 
 17.- Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
 
-
+![imagen](https://user-images.githubusercontent.com/85263529/126588126-407f5739-de63-4987-b37e-d82f9ce8f3f4.png)
 
 19.- La figura 10-32 muestra varios espaciamientos, entre ellos se incluye un capacitor de placas paralelas, un conjunto de pequeños puntos esféricos y un par de puntos afilados. Todos los espaciamientos miden lo mismo. Conforme el voltaje se incrementa, ¿qué espaciamiento sufre ruptura en cada caso?
+
+![imagen](https://user-images.githubusercontent.com/85263529/126588155-1742b469-1d51-446f-a94a-9359ec987f47.png)
+
+Para el literal (a) tenemos el caso de una ruptura de puntos.
+
+En el literal (b) tenemos el caso de una ruptura de   esferas 
+
+Finalmente en el literal (c) tenemos el caso de una ruptura de puntos.
 
 10-5 Efectos no ideales.
 
 21.- Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
 
+![imagen](https://user-images.githubusercontent.com/85263529/126588276-cb0a1069-d672-4eb4-9033-d7a6886ebfde.png)
+
 10-7Capacitores en paralelo y en serie.
 
 23.- ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 uF conectados en paralelo?
 
+![imagen](https://user-images.githubusercontent.com/85263529/126588313-4c71dc71-7938-4fbf-86e2-90dc75a168b2.png)
+ 
+ Nota: La capacitancia equivalente de un circuito en paralelo, es a la suma de las mismas.
+ 
 25.- Repita el problema 23 si los capacitores están conectados en serie.
+
+![imagen](https://user-images.githubusercontent.com/85263529/126588521-a789258c-cd54-4035-b9c2-7bac295d637e.png)
 
 27.- Determine CT para cada uno de los circuitos de la figura 10-33
 
+![imagen](https://user-images.githubusercontent.com/85263529/126588554-3fa99a0b-4a57-4748-98db-c3788bb75c1a.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/126588788-225a0573-c7a9-4eb6-9a55-708d089af3ee.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/126588830-636db612-c384-42d2-9eef-a65cf1e47c7e.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/126590230-3d3e6f97-3dab-48bf-9e27-188ddc2f83b6.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/126590439-197e49f6-dc66-49b1-9473-f1f49d58129c.png)
+
 29.- Un capacitor de 30 uF se conecta en paralelo con un capacitor de 60 uF, y otro de 10 uF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
 
+Capacitores en paralelo: 
+
+![imagen](https://user-images.githubusercontent.com/85263529/126589742-2657c530-9ca1-4a9b-81b6-220ee317bcd9.png)
+
+Capacitores en serie:
+
+![imagen](https://user-images.githubusercontent.com/85263529/126589844-38ce2dca-9cef-427c-b31a-f86301a7e61b.png)
 
 31.- Para la figura 10-36, determine C3y C4
+
+![imagen](https://user-images.githubusercontent.com/85263529/126589526-3ebf807c-533c-45a4-aea4-521d2b3ee4e4.png)
+
+![imagen](https://user-images.githubusercontent.com/85263529/126589634-385d6d3a-1ba8-4c63-afbf-c24a70398e18.png)
 
 33.- Se tienen capacitores de 22, 47, 2.2 y 10 F. ¿Cuál es la capacitancia equivalente más grande que se puede obtener conectándolos de la manera que usted prefiera ?, ¿y la más pequeña?
 
