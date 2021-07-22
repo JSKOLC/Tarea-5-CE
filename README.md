@@ -254,11 +254,11 @@ AQUÍ LIZ
 
 13.- a. ¿Cuál es la intensidad del campo eléctrico a una distancia de 1 cm de una carga de 100 mC en aceite? 
 
-b. ¿Cuál es al doble de la distancia?
+b. ¿Cuál es el campo electrico E al doble de la distancia?
 
 10-4 Dieléctricos.
 
-15.- Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
+15.- Un capacitor con aire como dieléctrico tiene un espaciamiento de placas de 1.5 mm. ¿Cuánto voltaje se le puede aplicar antes de que ocurra una ruptura?
 
 
 17.- Un capacitor con un dieléctrico de mica sufre una ruptura cuando se le aplican E volts. La mica se remueve y el espacio entre las placas se duplica. Si la ruptura ahora ocurre a 500 V, ¿cuál es el valor de E?
@@ -269,17 +269,17 @@ b. ¿Cuál es al doble de la distancia?
 
 10-5 Efectos no ideales.
 
-21.- Un capacitor de 25 F tiene un coeficiente de temperatura negativo de 175ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
+21.- Un capacitor de 25 uF tiene un coeficiente de temperatura negativo de 175ppm/ºC. ¿Por cuánto y en qué dirección podrá variar si la temperatura aumenta a 50ºC? ¿Cuál será el nuevo valor?
 
 10-7Capacitores en paralelo y en serie.
 
-23.- ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 F conectados en paralelo?
+23.- ¿Cuál es la capacitancia equivalente de 10, 12, 22 y 33 uF conectados en paralelo?
 
 25.- Repita el problema 23 si los capacitores están conectados en serie.
 
-27.- Determine CTpara cada uno de los circuitos de la figura 10-33
+27.- Determine CT para cada uno de los circuitos de la figura 10-33
 
-29.- Un capacitor de 30 F se conecta en paralelo con un capacitor de 60 F, y otro de 10 F se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
+29.- Un capacitor de 30 uF se conecta en paralelo con un capacitor de 60 uF, y otro de 10 uF se conecta en serie con la combinación en paralelo. ¿Cuál es el valor de CT?
 
 
 31.- Para la figura 10-36, determine C3y C4
