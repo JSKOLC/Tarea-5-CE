@@ -18,7 +18,21 @@ I. OBJETIVOS:
 
 Generales:
 
+1.- Adquirir los conocimientos básicos para hacer el análisis e identificar resistencias en serie y paralelo.
+
+2.- Calcular una resistencia que sea equivalente a un grupo de resistencias conectadas en serie, así como una resistencia
+equivalente a un grupo de resistencias conectadas en paralelo.
+
+
 Específicos:
+
+1.- Medir la resistencia equivalente de resistencias conectadas en serie.
+
+2.- Calcular y medir la resistencia equivalente de resistencias conectadas en serie-paralelo.
+
+3.-Aprender a conectar circuitos electricos mas complejos basandose en un diagrama esquematico.
+
+4.- Adquirir los conocimientos basicos para identificar una coneccion de resistencias en serie o en paralelo.
 
 II. MARCO TEÓRICO:
 
@@ -711,6 +725,15 @@ c.
 IV. VIDEO
 
 V. CONCLUSIONES
+
+Con esta práctica se pudo adquirir los conocimientos teóricos de lo que son las resistencias, así como los tipos que pueden existir
+y su clasificación en la forma en que pueden aparecer en un circuito que son serie y paralelo.
+
+En esta práctica se realizó los cálculos para obtener la resistencia equivalente de resistencias que se encontraban en paralelo y en
+serie cada una con sus respectivas formulas y estipulaciones que se debían tomar en cuenta para realizar los cálculos de una manera 
+adecuada.
+
+
 
 VI. BIBLIOGRAFÍA
 
