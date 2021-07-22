@@ -24,6 +24,9 @@ II. MARCO TEÓRICO:
 
 CAP #9
 
+![WhatsApp Image 2021-07-21 at 21 50 09](https://user-images.githubusercontent.com/85263529/126585216-2693df7e-b9d6-446e-a1dd-c43a11dc950f.jpeg)
+
+
 CAP #10
 
 ![WhatsApp Image 2021-07-20 at 12 31 27](https://user-images.githubusercontent.com/85263529/126578264-0cff00dd-df77-4723-9514-ecfcb6377889.jpeg)
@@ -243,12 +246,294 @@ b. Convierta el circuito equivalente de Thévenin del problema 13 en su equivale
 
 ![image](https://user-images.githubusercontent.com/85263529/126581352-5f914afd-c814-4cb3-b5c7-42e008b60078.png)
 
-AQUÍ LIZ
+
+
+35. Repita el problema 31 para el circuito de la figura 9-95.
+
+![image](https://user-images.githubusercontent.com/85263529/126585544-a98fa145-6cc3-45ea-871d-d4f14e78e930.png)
+
+
+RN=[(16∥16)+4]∥18
+RN=[(16*16)/(16+16)+4]∥18
+RN=12∥18
+RN=(12*18)/(12+18)
+RN=7.2Ω
+
+(18∥0)=0
+
+(4∥16)+16
+(4*16)/(4+16)+16=19.2Ω
+I=8/16.2=0.416A
+
+ETH=ETH(1)+ETH(2)
+ETH=2.4V+2.16V
+ETH=4.56V
+
+IN=ETH/RTH=4.56V/7.2=0.633mA
+
+Iab(1)=16/(16+4)*(0.416)
+Iab(1)=0.33A
+Iab(2)=7.2/(7.2+0)*(0.3)
+Iab(2)=0.3A
+
+IN=Iab(1)+Iab(2)
+IN=0.33+0.3
+IN=0.633A
+
+RN=RTH=7.2Ω
+
+(V1+8)/16+(V1-0)/16+(V1-V2)/4=0
+(V1+8)+(V1)+4(V1-V2)=0
+6V1-4V2=-8
+
+(V2+V1)/4+(V2-0)/18=0
+9(V2-V1)+2V2=0
+11V2-9V1=0
+
+V1=-2.83V
+V2=-2.4V
+
+ETH(2)=(300mA)*7.2
+ETH(2)=2.16V
+
+9-4 Teorema de transferencia de máxima potencia
+
+37. a. Para el circuito de la figura 9-91 determine el valor de RL para que se suministre
+ la máxima potencia a la carga.
+ 
+b. Calcule el valor de la máxima potencia que puede ser suministrada a la carga.
+
+c. Dibuje la curva de potencia contra resistencia cuando RL se ajusta de 0Ω a 50 kΩ en incrementos de 5 k_.
+
+![image](https://user-images.githubusercontent.com/85263529/126585756-0e58fe65-f2f5-4707-958e-56fdc566fb83.png)
+
+RTH=15+25+20
+RTH=60KΩ
+
+ETH(1)=-(3)*25
+ETH(1)=-75V
+
+ETH(2)=(5)*20
+ETH(2)=100V
+
+ETH=ETH(1)+ETH(2)
+ETH=-7.5V+100V
+ETH=25V
+
+RL=RTH=60KΩ
+PL=〖ETH〗^2/4RTH
+PL=〖(25V)〗^2/(4(60))=2.60mW
+
+
+39. a. Para el circuito de la figura 9-99 encuentre el valor de R de manera que RL = RTh.
+b. Calcule la máxima potencia disipada por RL.
+
+![image](https://user-images.githubusercontent.com/85263529/126586057-3238fb30-cb3a-4212-8615-97091a689dad.png)
+
+
+RTH=[(600∥R)+20]
+RTH=[(600*R)/(600+R)+20]                       
+RTH=RL
+RTH=50
+
+50=(600*R)/(600+R)+20
+R*570=18
+R=31.58Ω
+
+ETH=31.58/(31.58+600)*(25)
+ETH=1.25V
+
+Pmax=〖ETH〗^2/4RTH
+Pmax=〖(1.25V)〗^2/(4(50))=7.81mW
+
+41. a. Para el circuito de la figura 9-101 determine los valores de R1 y R2 de manera que la 
+carga de 32 kΩ reciba la máxima potencia.
+
+b. Calcule la máxima potencia suministrada por RL.
+
+![image](https://user-images.githubusercontent.com/85263529/126586408-7408e570-d74d-4bf8-b9c2-78711daaefab.png)
+
+
+R1+R2=200Ω
+RL=RTH
+RTH=32KΩ
+
+RTH=(R1∥R2)
+32=(R1*R2)/(R1+R2)
+32R1+32R2=R1*R2
+32(R1+(200-R1))=R1*(200-R1)
+6400MΩ-(200kΩ)R1+〖R1〗^2=0
+R1=160KΩ
+
+R1+R2=200
+160+R2=200
+R2=40KΩ
+
+ETH=40/(40+160)*(25)
+ETH=5V
+
+Pmax=〖ETH〗^2/4RTH
+Pmax=〖(5V)〗^2/(4(32))=19.5mW
+
+
+9-5 Teorema de sustitución
+
+43. Si la porción indicada del circuito de la figura 9-102 se reemplaza con una fuente de voltaje y un resistor en serie
+ de 50 _, determine la magnitud y polaridad la fuente de voltaje resultante.
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/126586815-3fae173e-145c-4e07-8c18-4cefda19534e.png)
+
+
+I=6.25/200=31.25mA
+31.25=E1/50
+E1=1.5625V
+
+9-6 Teorema de Millman
+
+45. Use el Teorema de Millman para encontrar la corriente y la potencia disipada por RL en el circuito de la figura 9-103.
+
+![image](https://user-images.githubusercontent.com/85263529/126586927-74c1cd21-aabb-48f8-af3b-b658265e765c.png)
+
+
+I1=20V/30Ω=0.667A
+I2=10V/20Ω=0.667A
+
+Ie1=∑_(x=0)^n▒〖Ix=I1+I2=E1/R1+E2/R2=0.667-0.5=0.167〗
+
+Req=(R1*R2)/(R1+R2)=(30*20)/(30+20)=12Ω
+
+V=(12)(0.167)=2.004V
+
+I=2.004V/37Ω=0.054A
+PL=(0.054)^2 (25)=0.073W
+
+47. Repita el problema 45 para el circuito de la figura 9-105.
+
+![image](https://user-images.githubusercontent.com/85263529/126586948-79d89270-d5bf-4425-a9d9-dbd7871800cb.png)
+
+Req=((5.1)(4.7)(5.6))/((5.1)(4.7)+(5.1)(5.6)+(4.7)(5.6))
+Req=134.23/78.85=1.702kΩ
+
+I1=10V/5.1Ω=1.9mA
+I2=5V/4.7Ω=1.06mA
+I3=6V/5.6Ω=1.07mA
+
+
+Ix=1.96+1.06-1.07=1.95mA
+Ex=(1.95)(1.702)=3.31V
+
+VL=10/11.702*3.31=2.83V
+IL=2.83V/10KΩ=0.283mA
+
+PL=(0.283)^2 (10)=0.807W
+
+9-7 Teorema de reciprocidad
+
+49. a. Determine la corriente I en el circuito de la figura 9-107.
+
+
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/85263529/126587013-67b36fbd-c6f3-4ae5-9190-8b633b0d04b2.png)
+
+
+RTH=(30+22.5)∥(60)∥(30)
+RTH=(52.5)(60)(30)/((52.5)(60)+(52.5)(30)+(30)(60) )
+RTH=94500/6525=17.58Ω
 
 
 
+VTH=Vab=28/58*24V=11.58V
+VTH=30/52.5*11.58V=6.62V
 
-AQUÍ LIZ
+I=11.59/((1.48+10) )=0.24A
+I=6.62V/17.58Ω=0.24A
+
+51. a. Determine el voltaje V en el circuito de la figura 9-109.
+
+
+b. Demuestre que la reciprocidad se aplica en el circuito dado.
+
+![image](https://user-images.githubusercontent.com/85263529/126587043-91603ca1-0d2e-49b3-aa6b-253d36429932.png)
+
+I*RT3=VT=48V
+VRT3=V_20Ω=VRT2
+VRT=VRT2*37.5/80=22.5V
+VRT=Vab=22.5V
+
+
+RT=((62.5)(50)(150))/((62.5)(50)+(62.5)(150)+(50)(150))
+RT=62.5Ω
+
+
+
+VT=VRT=3(27.78)=70.31V
+
+V_20Ω=Vab=70.31*20/62.5=22.5V
+
+10.1 Capacitancias 
+1. para la Figura 10-31, determine la carga en el capacitor, su capacitancia o el voltaje en él, según se aplique
+ a cada uno de los siguientes incisos:
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/126587097-57c9fbd5-10de-4722-befb-596e4987292e.png)
+
+
+Sabemos que Q=CE
+	a) E=40 V,C=20μF
+  
+  ![image](https://user-images.githubusercontent.com/85263529/126587127-68b58243-fd56-445e-a3c0-3c4eabcb605f.png)
+
+	b) V=500 V,C=1 000μC
+  
+  ![image](https://user-images.githubusercontent.com/85263529/126587158-0a02d56c-3273-49f8-860d-df0834f4787d.png)
+
+ c)	V=200 V,C=500nF
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/126587209-2e2e1bae-dc09-4d18-b36d-314d08171596.png)
+ 
+ d)	Q=3×〖10〗^(-14),C=40μF
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/126587257-37f5cecb-7dab-4303-baea-7a8ad6aeb35e.png)
+
+e)	Q=6mC,C=40μF
+
+![image](https://user-images.githubusercontent.com/85263529/126587281-1c83bb5c-31da-4392-aeb7-6d917d9ccac0.png)
+
+F) 	V=1 200 V,Q=1.8 mC
+
+![image](https://user-images.githubusercontent.com/85263529/126587308-502a8cfa-b44d-41a0-817e-becad0528a23.png)
+
+3. La carga en un capacitor de 50μF es de 10 × 〖10〗^(-3) C. ¿Cuál es la diferencia de potencial entre sus terminales?
+
+![image](https://user-images.githubusercontent.com/85263529/126587327-07533a04-3148-41bb-b37d-686162eaee23.png)
+
+5. Se carga un capacitor 5μF con 150 V. Su compañero de laboratorio momentáneamente pone un resistor a traves de sus terminales
+ y drena suficiente carga para que el voltaje caiga a 84 V. ¿Cuál es la carga final del capacitor?
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/126587363-a07e35e0-67d6-432f-8d85-59cef10834e1.png)
+
+
+10.2 Factores que afectan la capacitancia
+
+7. Un capacitor de placas paralelas con un dieléctrico de mica tiene las siguientes dimensiones 1 cm x 1.5 cm 
+con una separación de 0.1 mm. ¿Cuál es su capacitancia?
+
+![image](https://user-images.githubusercontent.com/85263529/126587417-ddcaf3c9-08d4-46c4-aa00-4b27b7b2f0b0.png)
+
+
+9. La capacitancia de un capacitor lleno de aceite es de 200 pF. Si la separación entre las placas es de 0.1 mm. ¿cuál es el área de las placas?
+
+![image](https://user-images.githubusercontent.com/85263529/126587482-7660ddd6-4038-4a23-a0a0-b968d2b1aa74.png)
+
+11. Un capacitor con un dieléctrico de Teflón tiene una capacitancia de 33 _F. Un segundo capacitor con dimensiones
+ físicas idénticas, pero con un dieléctrico de mylar lleva una carga de  55×〖10〗^(-4)C. ¿Cuál es su voltaje?
+ 
+ ![image](https://user-images.githubusercontent.com/85263529/126587570-8f663d87-ec28-406d-8aee-e7ab1bed36e0.png)
+
+
+![image](https://user-images.githubusercontent.com/85263529/126587584-49192ab5-84b9-4273-a4f7-5f5e6b8b3f97.png)
+
+
 
 10-3 Campos eléctricos.
 
