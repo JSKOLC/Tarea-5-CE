@@ -724,6 +724,8 @@ c.
 
 IV. VIDEO
 
+https://youtu.be/_6jGMb94HgM
+
 V. CONCLUSIONES
 
 Con esta práctica se pudo adquirir los conocimientos teóricos de lo que son las resistencias, así como los tipos que pueden existir
